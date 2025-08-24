@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="Multi Galaxies Mod" displayName="Multigalaxies v2" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/ZetaNull/Spore-MultigalaxiesMod" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="ZNMultigalaxiesv2" websiteUrl="https://github.com/ZetaNull/Spore-MultigalaxiesMod">
+  <prerequisite game="GalacticAdventures">!!ZetaMultigalaxiesV2_0.1.0.package</prerequisite>
+</mod>
